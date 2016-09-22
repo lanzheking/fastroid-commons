@@ -2,7 +2,7 @@ package com.honestwalker.android.kancart.activity;
 
 import android.os.Bundle;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.android.commons.activity.BaseActivity;
 import com.honestwalker.android.commons.utils.IntentBind.IntentBind;
 import com.honestwalker.android.commons.utils.XUtilsExt.OVMViewUtils;

@@ -8,7 +8,7 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.ImageView;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.androidutils.IO.LogCat;
 import com.honestwalker.androidutils.ViewUtils.ViewSizeHelper;
 import com.honestwalker.androidutils.views.BaseMyViewRelativeLayout;

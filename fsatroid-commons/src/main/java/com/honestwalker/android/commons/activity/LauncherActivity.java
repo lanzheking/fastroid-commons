@@ -13,7 +13,7 @@ import android.view.Window;
 import android.view.WindowManager;
 
 import com.honestwalker.android.APICore.API.net.cookie.ApiCookieManager;
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.androidutils.IO.LogCat;
 import com.honestwalker.androidutils.IO.ObjectStreamIO;
 import com.honestwalker.androidutils.IO.SharedPreferencesLoader;

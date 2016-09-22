@@ -2,7 +2,7 @@ package com.honestwalker.android.commons.config;
 
 import android.content.Context;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.androidutils.IO.LogCat;
 
 import java.lang.reflect.Field;

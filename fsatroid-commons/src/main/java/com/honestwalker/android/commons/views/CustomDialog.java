@@ -2,8 +2,7 @@ package com.honestwalker.android.commons.views;
 
 import android.app.Dialog;
 import android.content.Context;
-
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 
 
 /**

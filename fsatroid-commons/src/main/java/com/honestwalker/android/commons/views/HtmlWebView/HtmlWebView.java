@@ -24,7 +24,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.android.commons.KancartReceiverManager;
 import com.honestwalker.android.commons.jscallback.actionclass.JSCallbackObjectFilter;
 import com.honestwalker.androidutils.Application;

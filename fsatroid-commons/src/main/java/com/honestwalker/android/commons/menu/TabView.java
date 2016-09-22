@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.androidutils.ViewUtils.ViewSizeHelper;
 import com.honestwalker.androidutils.equipment.DisplayUtil;
 

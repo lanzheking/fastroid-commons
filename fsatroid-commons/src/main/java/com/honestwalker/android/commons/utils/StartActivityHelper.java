@@ -4,8 +4,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.androidutils.IO.SharedPreferencesLoader;
 
 public class StartActivityHelper {

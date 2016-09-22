@@ -7,8 +7,7 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
-
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 
 
 /** 广播管理器，仅用于App内部广播，目的是为了代替观测者模式，它可以支持多进程 */

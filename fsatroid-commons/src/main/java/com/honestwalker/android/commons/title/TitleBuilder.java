@@ -11,7 +11,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.androidutils.IO.LogCat;
 import com.honestwalker.androidutils.StringUtil;
 import com.honestwalker.androidutils.ViewUtils.ViewSizeHelper;

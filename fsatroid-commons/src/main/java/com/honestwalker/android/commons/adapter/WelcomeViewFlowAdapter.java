@@ -4,7 +4,7 @@ import android.content.Context;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.androidutils.ViewUtils.ViewSizeHelper;
 import com.honestwalker.androidutils.commons.adapter.BaseArrayAdapter;
 import com.honestwalker.androidutils.commons.adapter.BaseViewHolder;

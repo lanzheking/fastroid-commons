@@ -3,7 +3,7 @@ package com.honestwalker.android.kancart.test.Manager;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.android.commons.activity.BaseActivity;
 
 import java.util.ArrayList;

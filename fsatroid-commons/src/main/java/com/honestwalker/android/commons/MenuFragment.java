@@ -4,8 +4,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.android.commons.menu.BaseTabIconFragment;
 import com.honestwalker.android.commons.menu.BlurViewPager;
 import com.honestwalker.android.commons.menu.IMenuContext;

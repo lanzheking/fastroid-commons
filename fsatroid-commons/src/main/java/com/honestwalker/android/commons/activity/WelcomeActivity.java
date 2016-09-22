@@ -6,8 +6,7 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.android.commons.adapter.WelcomeViewFlowAdapter;
 import com.honestwalker.androidutils.IO.SharedPreferencesLoader;
 import com.honestwalker.androidutils.StringUtil;

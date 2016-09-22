@@ -3,7 +3,7 @@ package com.honestwalker.android.commons;
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.android.commons.menu.BlurViewPager;
 import com.honestwalker.android.commons.menu.IMenuContext;
 import com.honestwalker.android.commons.menu.MenuBuilder;

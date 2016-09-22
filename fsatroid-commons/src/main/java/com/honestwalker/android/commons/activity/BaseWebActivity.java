@@ -3,7 +3,7 @@ package com.honestwalker.android.commons.activity;
 import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.android.commons.menu.BaseWebViewFragment;
 import com.honestwalker.android.commons.utils.IntentBind.IntentBind;
 import com.lidroid.xutils.view.annotation.ContentView;

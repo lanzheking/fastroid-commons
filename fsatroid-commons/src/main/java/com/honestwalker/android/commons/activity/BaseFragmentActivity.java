@@ -4,7 +4,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.android.kc_commons.ui.utils.TranslucentStatus;
 import com.honestwalker.androidutils.equipment.DisplayUtil;
 import com.systembartint.SystemBarTintManager;

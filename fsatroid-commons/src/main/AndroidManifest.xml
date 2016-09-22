@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.honestwalker.android">
+    package="com.honestwalker.android.KCCommons">
 
     <application
         android:allowBackup="true"

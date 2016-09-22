@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 
-import com.honestwalker.android.R;
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.android.commons.config.ContextProperties;
 import com.honestwalker.android.commons.utils.erroreport.ReportError;
 import com.honestwalker.android.commons.utils.erroreport.ReportErrorSender;
