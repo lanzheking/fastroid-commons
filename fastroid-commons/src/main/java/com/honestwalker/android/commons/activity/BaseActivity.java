@@ -84,15 +84,14 @@ public abstract class BaseActivity extends FragmentActivity {
 
 		// 侵入时标题支持
 //		TranslucentStatus.setEnable(this);
-		/*TranslucentStatus.setEnable(this);
 
-		if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
+		/*if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
 			setTranslucentStatus(true);
 		}
-*/
+
 		SystemBarTintManager tintManager = new SystemBarTintManager(this);
 		tintManager.setStatusBarTintEnabled(false);
-		tintManager.setStatusBarTintColor(context.getResources().getColor(R.color.none));
+		tintManager.setStatusBarTintColor(context.getResources().getColor(R.color.none));*/
 
 		ViewUtils.inject(this);
 
