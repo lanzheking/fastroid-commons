@@ -1,0 +1,29 @@
+#环境参数 与com.honestwalker.context.KancartPropertices对象对应
+
+#================================
+#		应用程序相关配置
+#================================
+
+# 日志总开关
+showLog=true
+
+# 是否发送错误报告
+sendErrorReport = true
+
+#请求重试次数
+maxRequestTime=3
+
+#请求超时时间
+requestTimeout=30000
+
+#缓存相对路径
+cachePath=/
+
+appKey=11111111
+appSecret=11111111111111111111111111111111
+
+#sd卡根目录下的缓存文件夹
+sdcartCacheName=lunzheng
+
+# 图片压缩最大宽度(像素)
+imageMaxWidth=512

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <integer name="review_order_remark_max_length">300</integer>
-    <integer name="anim_welcome_duration">400</integer>
-
-    <integer name="anim_dialog">150</integer>
-
-</resources>

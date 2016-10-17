@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fastroid-http-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/fsatroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-http/1.0.0/res" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/fsatroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-http/1.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/fsatroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-http/1.0.0/jars/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/fsatroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-http/1.0.0/jars/libs/httpmime-4.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
