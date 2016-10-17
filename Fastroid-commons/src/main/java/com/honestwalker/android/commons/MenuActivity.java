@@ -1,6 +1,7 @@
 package com.honestwalker.android.commons;
 
 import android.app.Activity;
+import android.os.Build;
 import android.os.Bundle;
 
 import com.honestwalker.android.KCCommons.R;
@@ -10,8 +11,11 @@ import com.honestwalker.android.commons.menu.MenuBuilder;
 import com.honestwalker.android.commons.menu.TabPageIndicator;
 import com.honestwalker.android.commons.title.TitleArg;
 import com.honestwalker.android.kc_commons.ui.activity.BaseFragmentActivity;
+import com.honestwalker.android.kc_commons.ui.utils.TranslucentStatus;
 import com.honestwalker.androidutils.Application;
 import com.honestwalker.androidutils.activity.fragment.menubar.MenubarItemBean;
+import com.lidroid.xutils.ViewUtils;
+import com.systembartint.SystemBarTintManager;
 
 public abstract class MenuActivity extends BaseFragmentActivity implements IMenuContext {
 
@@ -23,6 +27,10 @@ public abstract class MenuActivity extends BaseFragmentActivity implements IMenu
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        TranslucentStatus.setEnable(this);
+
+        ViewUtils.inject(this);
         initView();
     }
 

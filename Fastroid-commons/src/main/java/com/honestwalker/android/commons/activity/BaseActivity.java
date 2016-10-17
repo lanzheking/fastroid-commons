@@ -83,15 +83,7 @@ public abstract class BaseActivity extends FragmentActivity {
 		context = this;
 
 		// 侵入时标题支持
-//		TranslucentStatus.setEnable(this);
-
-		if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
-			setTranslucentStatus(true);
-		}
-
-		SystemBarTintManager tintManager = new SystemBarTintManager(this);
-		tintManager.setStatusBarTintEnabled(false);
-		tintManager.setTintColor(context.getResources().getColor(R.color.none));
+		TranslucentStatus.setEnable(this);
 
 		ViewUtils.inject(this);
 
@@ -598,26 +590,5 @@ public abstract class BaseActivity extends FragmentActivity {
 	 *          对话框相关结束
 	 *
 	 *===============================*/
-
-	boolean translucentStatus;
-	@TargetApi(19)
-	protected void setTranslucentStatus(boolean on) {
-		translucentStatus = on;
-		Window win = getWindow();
-		WindowManager.LayoutParams winParams = win.getAttributes();
-		final int bits = WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS;
-		if (on) {
-			winParams.flags |= bits;
-		} else {
-			winParams.flags &= ~bits;
-		}
-		win.setAttributes(winParams);
-	}
-
-
-	@TargetApi(19)
-	protected boolean getTranslucentStatus() {
-		return translucentStatus;
-	}
 
 }
