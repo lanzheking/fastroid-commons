@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="fastroid-utils-0.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars/libs/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars/libs/commons-lang-2.6.jar!/" />
+      <root url="file://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/res" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars/libs/jdom-1.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars/libs/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars/libs/commons-lang3-3.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars/libs/imagelibrary.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars/libs/commons-codec-1.10.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars/libs/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars/libs/xutilslibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
