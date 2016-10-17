@@ -18,6 +18,7 @@ import android.view.WindowManager;
 import android.widget.GridView;
 import android.widget.ListView;
 
+import com.honestwalker.android.KCCommons.R;
 import com.honestwalker.android.commons.BaseApplication;
 import com.honestwalker.android.commons.Constants.RequestCode;
 import com.honestwalker.android.commons.Constants.ResultCode;
@@ -82,15 +83,16 @@ public abstract class BaseActivity extends FragmentActivity {
 		context = this;
 
 		// 侵入时标题支持
+//		TranslucentStatus.setEnable(this);
 		/*TranslucentStatus.setEnable(this);
 
 		if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
 			setTranslucentStatus(true);
 		}
-
+*/
 		SystemBarTintManager tintManager = new SystemBarTintManager(this);
 		tintManager.setStatusBarTintEnabled(false);
-		tintManager.setStatusBarTintColor(context.getResources().getColor(R.color.none));*/
+		tintManager.setStatusBarTintColor(context.getResources().getColor(R.color.none));
 
 		ViewUtils.inject(this);
 
