@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":fsatroid-commons" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$USER_HOME$/dev/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons" external.system.id="GRADLE" external.system.module.group="Fastroid-commons" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":fastroid-commons" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$USER_HOME$/dev/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons" external.system.id="GRADLE" external.system.module.group="Fastroid-commons" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
-        <option name="GRADLE_PROJECT_PATH" value=":fsatroid-commons" />
+        <option name="GRADLE_PROJECT_PATH" value=":fastroid-commons" />
       </configuration>
     </facet>
     <facet type="android" name="Android">
@@ -104,8 +104,8 @@
     <orderEntry type="library" exported="" name="support-v4-22.1.1" level="project" />
     <orderEntry type="library" exported="" name="fastroid-http-1.0.0" level="project" />
     <orderEntry type="library" exported="" name="ShareSDK-Wechat-Moments-2.6.0" level="project" />
-    <orderEntry type="library" exported="" name="ShareSDK-Wechat-2.6.0" level="project" />
     <orderEntry type="library" exported="" name="ShareSDK-SinaWeibo-2.6.0" level="project" />
+    <orderEntry type="library" exported="" name="ShareSDK-Wechat-2.6.0" level="project" />
     <orderEntry type="library" exported="" name="ShareSDK-Wechat-Core-2.6.0" level="project" />
   </component>
 </module>

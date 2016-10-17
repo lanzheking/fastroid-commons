@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="MobTools">
     <CLASSES>
-      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/fsatroid-commons/libs/MobTools.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/fastroid-commons/libs/MobTools.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
