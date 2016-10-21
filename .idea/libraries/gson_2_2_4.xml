@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gson-2.2.4">
     <CLASSES>
-      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/libs/gson-2.2.4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

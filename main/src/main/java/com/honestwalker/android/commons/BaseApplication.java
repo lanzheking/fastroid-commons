@@ -48,10 +48,6 @@ public class BaseApplication extends android.app.Application  {
 
         initApp();
 
-        new InitStrategy(context).execute();
-
-//        Thread.setDefaultUncaughtExceptionHandler(exceptionHandler);
-
         LogCat.d("PROC", "启动进程：" + ProcessUtil.getMyPid() +
                 " 进程名：" + ProcessUtil.getCurProcessName(getApplicationContext()));
 
@@ -64,25 +60,6 @@ public class BaseApplication extends android.app.Application  {
         appVersion = Application.getAppVersion(context, R.class);
 
     }
-
-    public UncaughtExceptionHandler exceptionHandler = new UncaughtExceptionHandler() {
-        @Override
-        public void uncaughtException(Thread thread, Throwable ex) {
-
-            CrashInfoBean crashInfoBean = new CrashInfoBean();
-            Intent intent = new Intent();
-            crashInfoBean.setProcessName(ProcessUtil.getCurProcessName(context));
-            crashInfoBean.setThrowable(ex);
-            intent.putExtra(CrashInfoBean.CRASH_BROADCASE_BEAN , crashInfoBean);
-            BroadcaseManager.sendBroadcast(context , CrashInfoBean.CRASH_BROADCASE_ACTION , intent);
-            if(ContextProperties.getConfig().sendErrorReport) {
-                sendReportError(ex);
-            } else {
-                showError(ex);
-                Application.exit(context);
-            }
-        }
-    };
 
     public static void addSingleInstanceActivity(Activity activity) {
         signinstanceActivity.put(activity, activity);
@@ -104,38 +81,6 @@ public class BaseApplication extends android.app.Application  {
         Application.exit(context);
         System.exit(0);
         clearAllSigninstanceActivity();
-    }
-
-    private void showError(Throwable ex) {
-        if(ex.getCause() != null) {
-            LogCat.e("AndroidRuntime","<================KancartException Cause=====================>");
-            LogCat.e("AndroidRuntime",ex.getCause().toString());
-            StackTraceElement[] stesCause = ex.getCause().getStackTrace();
-            if(stesCause != null) {
-                for (StackTraceElement ste : stesCause) {
-                    LogCat.e("AndroidRuntime",ste.toString());
-                }
-            }
-        } else {
-            LogCat.d("AndroidRuntime" , ex.toString());
-        }
-    }
-
-    /**
-     * 发送错误报告
-     * @param ex
-     */
-    public void sendReportError(Throwable ex) {
-
-        showError(ex);
-
-        ReportError reportError = new ReportError();
-        reportError.setName(R.class.getPackage().getName());
-        reportError.setClient("android");
-        reportError.setRemark(TelephoneUtil.getInstance(context).getInfoDetail() + " page:" + lastPage);
-        reportError.setVersion(appVersion);
-        reportError.setException(ex);
-        ReportErrorSender.send(getApplicationContext(), reportError);
     }
 
 }

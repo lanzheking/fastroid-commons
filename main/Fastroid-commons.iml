@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":Fastroid-commons" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$USER_HOME$/dev/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-demo" external.system.id="GRADLE" external.system.module.group="Fastroid-demo" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":Fastroid-commons" external.linked.project.path="$MODULE_DIR$/../Fastroid-commons" external.root.project.path="$USER_HOME$/dev/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-demo" external.system.id="GRADLE" external.system.module.group="Fastroid-demo" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
@@ -47,7 +47,6 @@
       <excludeFolder url="file://$MODULE_DIR$/../../Fastroid-demo/Modules/Fastroid-commons/build/intermediates/bundles" />
       <excludeFolder url="file://$MODULE_DIR$/../../Fastroid-demo/Modules/Fastroid-commons/build/intermediates/classes" />
       <excludeFolder url="file://$MODULE_DIR$/../../Fastroid-demo/Modules/Fastroid-commons/build/intermediates/dependency-cache" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Fastroid-demo/Modules/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-http/1.0.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/../../Fastroid-demo/Modules/Fastroid-commons/build/intermediates/exploded-aar/com.github.lanzheking/fastroid-utils/0.1.1/jars" />
       <excludeFolder url="file://$MODULE_DIR$/../../Fastroid-demo/Modules/Fastroid-commons/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/../../Fastroid-demo/Modules/Fastroid-commons/build/intermediates/lint" />
@@ -174,7 +173,6 @@
     <orderEntry type="library" exported="" name="support-annotations-22.1.1" level="project" />
     <orderEntry type="library" exported="" name="ShareSDK-Core-2.6.0" level="project" />
     <orderEntry type="library" exported="" name="support-v4-22.1.1" level="project" />
-    <orderEntry type="library" exported="" name="fastroid-http-1.0.0" level="project" />
     <orderEntry type="library" exported="" name="ShareSDK-Wechat-Moments-2.6.0" level="project" />
     <orderEntry type="library" exported="" name="ShareSDK-SinaWeibo-2.6.0" level="project" />
     <orderEntry type="library" exported="" name="ShareSDK-Wechat-2.6.0" level="project" />
