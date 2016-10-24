@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Fastroid-http-1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/build/intermediates/exploded-aar/com.github.lanzheking/Fastroid-http/1.0.4/jars/libs/httpmime-4.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/build/intermediates/exploded-aar/com.github.lanzheking/Fastroid-http/1.0.4/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/build/intermediates/exploded-aar/com.github.lanzheking/Fastroid-http/1.0.4/jars/libs/gson-2.2.4.jar!/" />
+      <root url="file://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/build/intermediates/exploded-aar/com.github.lanzheking/Fastroid-http/1.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

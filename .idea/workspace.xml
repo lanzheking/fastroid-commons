@@ -9,6 +9,7 @@
     <list default="true" readonly="true" id="5df6bd7f-9f7d-4016-bb74-cfdaf2d3da72" name="Default" comment="提交本地配置文件">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/Fastroid-commons.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/main.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/src/main/java/com/honestwalker/android/commons/BaseApplication.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/MobTools.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/ShareSDK_Core_2_6_0.xml" afterPath="" />
@@ -37,9 +38,12 @@
       <change type="DELETED" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/Fastroid-commons-Fastroid-commons.iml" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/fastroid-commons.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Fastroid-commons/libs/gson-2.2.4.jar" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/.idea/libraries" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/libs/gson-2.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/libs/gson-2.2.4.jar" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/.gitignore" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/Fastroid-commons-Fastroid-commons.iml" afterPath="$PROJECT_DIR$/main/main.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/Fastroid-commons-Fastroid-commons.iml" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/main.iml" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/Fastroid-commons.iml" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/Fastroid-commons.iml" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/build.gradle" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/build.gradle" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/proguard-rules.pro" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/proguard-rules.pro" />
@@ -228,7 +232,6 @@
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/src/main/res/values/ssdk_strings.xml" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/src/main/res/values/ssdk_strings.xml" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/src/main/res/values/strings.xml" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/src/main/res/values/strings.xml" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/src/main/res/values/style.xml" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/src/main/res/values/style.xml" />
-      <change type="MOVED" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/Fastroid-commons-Fastroid-commons.iml" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/main.iml" />
       <change type="MOVED" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/Fastroid-commons.iml" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/Fastroid-commons.iml" />
       <change type="MOVED" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/build.gradle" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/build.gradle" />
       <change type="MOVED" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/src/main/java/com/honestwalker/android/commons/BaseApplication.java" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/src/main/java/com/honestwalker/android/commons/BaseApplication.java" />
@@ -243,6 +246,7 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/local.properties" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/local.properties" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/settings.gradle" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/settings.gradle" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons" afterPath="$PROJECT_DIR$/main" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/.directory" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/.directory" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/libs" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/libs" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/libs/MobTools.jar" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/libs/MobTools.jar" />
@@ -252,7 +256,6 @@
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/libs/ShareSDK-Wechat-Core-2.6.0.jar" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/libs/ShareSDK-Wechat-Core-2.6.0.jar" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/libs/ShareSDK-Wechat-Favorite-2.6.0.jar" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/libs/ShareSDK-Wechat-Favorite-2.6.0.jar" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/libs/ShareSDK-Wechat-Moments-2.6.0.jar" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/libs/ShareSDK-Wechat-Moments-2.6.0.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/libs/gson-2.2.4.jar" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/libs/gson-2.2.4.jar" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/src" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/src" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/src/main" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/src/main" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/src/main/assets" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/src/main/assets" />
@@ -482,7 +485,6 @@
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/src/main/res/values-en" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/src/main/res/values-en" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/src/main/res/values-w820dp" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/src/main/res/values-w820dp" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/Fastroid-commons/src/main/res/values" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/src/main/res/values" />
-      <change type="MOVED" beforePath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons" afterPath="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main" />
     </list>
     <ignored path="Fastroid-commons.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -519,7 +521,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="167" column="13" selection-start-line="167" selection-start-column="13" selection-end-line="167" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1310#1311#0" expanded="false" />
+                <element signature="e#1345#1346#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -548,7 +554,7 @@
         <entry file="file://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -559,7 +565,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -584,17 +592,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.73431736">
+              <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/gradle/wrapper/gradle-wrapper.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -609,7 +617,20 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="160" column="22" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
-              <folding />
+              <folding>
+                <element signature="e#0#7896#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1858#1859#0" expanded="false" />
+                <element signature="e#1920#1921#0" expanded="false" />
+                <element signature="e#2714#2715#0" expanded="false" />
+                <element signature="e#2774#2775#0" expanded="false" />
+                <element signature="e#3564#3565#0" expanded="false" />
+                <element signature="e#3623#3624#0" expanded="false" />
+                <element signature="e#4410#4411#0" expanded="false" />
+                <element signature="e#4469#4470#0" expanded="false" />
+                <element signature="e#5655#5656#0" expanded="false" />
+                <element signature="e#5715#5716#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1109,9 +1130,14 @@
                 <option name="name" value="prepareComAndroidSupportSupportV42211Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.github.lanzheking:fastroid-utils:0.1.1" />
+                <option name="description" value="Prepare com.github.lanzheking:Fastroid-http:1.0.4" />
                 <option name="linkedExternalProjectPath" value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons" />
-                <option name="name" value="prepareComGithubLanzhekingFastroidUtils011Library" />
+                <option name="name" value="prepareComGithubLanzhekingFastroidHttp104Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.github.lanzheking:Fastroid-utils:0.1.3" />
+                <option name="linkedExternalProjectPath" value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons" />
+                <option name="name" value="prepareComGithubLanzhekingFastroidUtils013Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons" />
@@ -1653,9 +1679,14 @@
                 <option name="name" value="prepareComAndroidSupportSupportV42211Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.github.lanzheking:fastroid-utils:0.1.1" />
+                <option name="description" value="Prepare com.github.lanzheking:Fastroid-http:1.0.4" />
                 <option name="linkedExternalProjectPath" value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main" />
-                <option name="name" value="prepareComGithubLanzhekingFastroidUtils011Library" />
+                <option name="name" value="prepareComGithubLanzhekingFastroidHttp104Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.github.lanzheking:Fastroid-utils:0.1.3" />
+                <option name="linkedExternalProjectPath" value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main" />
+                <option name="name" value="prepareComGithubLanzhekingFastroidUtils013Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main" />
@@ -1782,7 +1813,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4430476551662" />
+        <entry key="$PROJECT_DIR$" value="4430993346123" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1797,22 +1828,22 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/gradle/1.3.0/f066a126242be87eab2fb53ab2007fdcef1f2ca1/gradle-1.3.0-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/gradle/1.3.0/db203cf2a27d7900e7f4a8a262fd711e30be6713/gradle-1.3.0.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/c284e22e7c691774d2240e419ac2a744e80d7e84/android-maven-gradle-plugin-1.3-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/56f44bee48445bcb6b1f1e0f04576de3fee13426/android-maven-gradle-plugin-1.3.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/1.3.0/10b0c0a76b25f29024c663b28a3cbcf469b66698/gradle-core-1.3.0-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/1.3.0/2eebe183f05f7fac853c26e646fb40eb4b9e32de/gradle-core-1.3.0.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder/1.3.0/25109b54a65e71e42a1c6f3603277d66b6d4563c/builder-1.3.0-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder/1.3.0/c9c23da9e569cc8a826ded472797700dc4607918/builder-1.3.0.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/gradle/1.3.0/f066a126242be87eab2fb53ab2007fdcef1f2ca1/gradle-1.3.0-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/gradle/1.3.0/db203cf2a27d7900e7f4a8a262fd711e30be6713/gradle-1.3.0.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/c284e22e7c691774d2240e419ac2a744e80d7e84/android-maven-gradle-plugin-1.3-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/56f44bee48445bcb6b1f1e0f04576de3fee13426/android-maven-gradle-plugin-1.3.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/1.3.0/10b0c0a76b25f29024c663b28a3cbcf469b66698/gradle-core-1.3.0-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/1.3.0/2eebe183f05f7fac853c26e646fb40eb4b9e32de/gradle-core-1.3.0.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder/1.3.0/25109b54a65e71e42a1c6f3603277d66b6d4563c/builder-1.3.0-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder/1.3.0/c9c23da9e569cc8a826ded472797700dc4607918/builder-1.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.3.0/lint-24.3.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.3.0/lint-24.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder-model/1.3.0/4112f27e378b6a2a80f983f8c039aed7dcfcf905/builder-model-1.3.0-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder-model/1.3.0/72749ddffc6e19cb24a814864e47bbb6d17cd0ca/builder-model-1.3.0.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/1.3.0/ce107f9cb03c5c921b0c62a022c34bd1def93c67/builder-test-api-1.3.0-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/1.3.0/4f3e09152cf48603f05fc65fd65269f009f932d6/builder-test-api-1.3.0.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder-model/1.3.0/4112f27e378b6a2a80f983f8c039aed7dcfcf905/builder-model-1.3.0-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder-model/1.3.0/72749ddffc6e19cb24a814864e47bbb6d17cd0ca/builder-model-1.3.0.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/1.3.0/ce107f9cb03c5c921b0c62a022c34bd1def93c67/builder-test-api-1.3.0-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/1.3.0/4f3e09152cf48603f05fc65fd65269f009f932d6/builder-test-api-1.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.3.0/sdklib-24.3.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.3.0/sdklib-24.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/24.3.0/sdk-common-24.3.0-sources.jar" />
@@ -2176,22 +2207,22 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/gradle/1.3.0/f066a126242be87eab2fb53ab2007fdcef1f2ca1/gradle-1.3.0-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/gradle/1.3.0/db203cf2a27d7900e7f4a8a262fd711e30be6713/gradle-1.3.0.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/c284e22e7c691774d2240e419ac2a744e80d7e84/android-maven-gradle-plugin-1.3-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/56f44bee48445bcb6b1f1e0f04576de3fee13426/android-maven-gradle-plugin-1.3.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/1.3.0/10b0c0a76b25f29024c663b28a3cbcf469b66698/gradle-core-1.3.0-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/1.3.0/2eebe183f05f7fac853c26e646fb40eb4b9e32de/gradle-core-1.3.0.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder/1.3.0/25109b54a65e71e42a1c6f3603277d66b6d4563c/builder-1.3.0-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder/1.3.0/c9c23da9e569cc8a826ded472797700dc4607918/builder-1.3.0.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/gradle/1.3.0/f066a126242be87eab2fb53ab2007fdcef1f2ca1/gradle-1.3.0-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/gradle/1.3.0/db203cf2a27d7900e7f4a8a262fd711e30be6713/gradle-1.3.0.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/c284e22e7c691774d2240e419ac2a744e80d7e84/android-maven-gradle-plugin-1.3-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.3/56f44bee48445bcb6b1f1e0f04576de3fee13426/android-maven-gradle-plugin-1.3.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/1.3.0/10b0c0a76b25f29024c663b28a3cbcf469b66698/gradle-core-1.3.0-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/1.3.0/2eebe183f05f7fac853c26e646fb40eb4b9e32de/gradle-core-1.3.0.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder/1.3.0/25109b54a65e71e42a1c6f3603277d66b6d4563c/builder-1.3.0-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder/1.3.0/c9c23da9e569cc8a826ded472797700dc4607918/builder-1.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.3.0/lint-24.3.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.3.0/lint-24.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder-model/1.3.0/4112f27e378b6a2a80f983f8c039aed7dcfcf905/builder-model-1.3.0-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder-model/1.3.0/72749ddffc6e19cb24a814864e47bbb6d17cd0ca/builder-model-1.3.0.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/1.3.0/ce107f9cb03c5c921b0c62a022c34bd1def93c67/builder-test-api-1.3.0-sources.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/1.3.0/4f3e09152cf48603f05fc65fd65269f009f932d6/builder-test-api-1.3.0.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder-model/1.3.0/4112f27e378b6a2a80f983f8c039aed7dcfcf905/builder-model-1.3.0-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder-model/1.3.0/72749ddffc6e19cb24a814864e47bbb6d17cd0ca/builder-model-1.3.0.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/1.3.0/ce107f9cb03c5c921b0c62a022c34bd1def93c67/builder-test-api-1.3.0-sources.jar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/1.3.0/4f3e09152cf48603f05fc65fd65269f009f932d6/builder-test-api-1.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.3.0/sdklib-24.3.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.3.0/sdklib-24.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/24.3.0/sdk-common-24.3.0-sources.jar" />
@@ -2254,10 +2285,10 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
-                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-2.8/caches/modules-2/files-2.1/com.github.lanzheking/fastroid-utils/0.1.1/76453593c9aab67972702f93225b88290e6f9683/fastroid-utils-0.1.1.aar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.github.lanzheking/Fastroid-utils/0.1.3/bbe0dfa02f8683fe0b61debfe434d7d4bceba792/Fastroid-utils-0.1.3.aar" />
+                            <option value="$USER_HOME$/mnt/dev/honestwalker/work/gradle/gradle-3.1/caches/modules-2/files-2.1/com.github.lanzheking/Fastroid-http/1.0.4/15c8fd9df43430c385479108cda1437211f49d0f/Fastroid-http-1.0.4.aar" />
                             <option value="$PROJECT_DIR$/../../../../work/sdk/android-sdk_r24.3.4-linux/extras/android/m2repository/com/android/support/support-v4/22.1.1/support-v4-22.1.1.aar" />
                             <option value="$PROJECT_DIR$/../../../../work/sdk/android-sdk_r24.3.4-linux/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar" />
-                            <option value="$MODULE_DIR$/libs/gson-2.2.4.jar" />
                             <option value="$MODULE_DIR$/libs/ShareSDK-Wechat-2.6.0.jar" />
                             <option value="$MODULE_DIR$/libs/ShareSDK-Wechat-Core-2.6.0.jar" />
                             <option value="$MODULE_DIR$/libs/ShareSDK-Wechat-Moments-2.6.0.jar" />
@@ -2421,14 +2452,15 @@
         <option value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/fastroid-commons/src/main/java/com/honestwalker/android/commons/activity/LauncherActivity.java" />
         <option value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/settings.gradle" />
         <option value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/Fastroid-commons/src/main/res/values/style.xml" />
+        <option value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="y" value="57" />
+    <option name="x" value="1918" />
+    <option name="y" value="64" />
     <option name="width" value="1924" />
-    <option name="height" value="992" />
+    <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -2517,9 +2549,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2783,8 +2815,16 @@
           <option name="myCopyRoot" value="$PROJECT_DIR$" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/.idea" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/.idea" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
           <option name="myVcsRoot" value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons" />
           <option name="myCopyRoot" value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main" />
+          <option name="myCopyRoot" value="$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main" />
         </SvnCopyRootSimple>
       </list>
     </option>
@@ -2824,15 +2864,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="57" width="1924" height="992" extended-state="6" />
+    <frame x="1918" y="64" width="1924" height="985" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32467532" sideWeight="0.4849921" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32422802" sideWeight="0.48296058" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32391047" sideWeight="0.5150079" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32422802" sideWeight="0.5170394" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2841,12 +2881,12 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18423855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18317358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2905,7 +2945,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2921,7 +2963,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="160" column="22" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#0#7896#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1858#1859#0" expanded="false" />
+            <element signature="e#1920#1921#0" expanded="false" />
+            <element signature="e#2714#2715#0" expanded="false" />
+            <element signature="e#2774#2775#0" expanded="false" />
+            <element signature="e#3564#3565#0" expanded="false" />
+            <element signature="e#3623#3624#0" expanded="false" />
+            <element signature="e#4410#4411#0" expanded="false" />
+            <element signature="e#4469#4470#0" expanded="false" />
+            <element signature="e#5655#5656#0" expanded="false" />
+            <element signature="e#5715#5716#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2936,7 +2991,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="167" column="13" selection-start-line="167" selection-start-column="13" selection-end-line="167" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1310#1311#0" expanded="false" />
+            <element signature="e#1345#1346#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2965,7 +3024,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2981,7 +3042,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="160" column="22" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#0#7896#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1858#1859#0" expanded="false" />
+            <element signature="e#1920#1921#0" expanded="false" />
+            <element signature="e#2714#2715#0" expanded="false" />
+            <element signature="e#2774#2775#0" expanded="false" />
+            <element signature="e#3564#3565#0" expanded="false" />
+            <element signature="e#3623#3624#0" expanded="false" />
+            <element signature="e#4410#4411#0" expanded="false" />
+            <element signature="e#4469#4470#0" expanded="false" />
+            <element signature="e#5655#5656#0" expanded="false" />
+            <element signature="e#5715#5716#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3196,7 +3270,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="160" column="22" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#0#7896#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1858#1859#0" expanded="false" />
+            <element signature="e#1920#1921#0" expanded="false" />
+            <element signature="e#2714#2715#0" expanded="false" />
+            <element signature="e#2774#2775#0" expanded="false" />
+            <element signature="e#3564#3565#0" expanded="false" />
+            <element signature="e#3623#3624#0" expanded="false" />
+            <element signature="e#4410#4411#0" expanded="false" />
+            <element signature="e#4469#4470#0" expanded="false" />
+            <element signature="e#5655#5656#0" expanded="false" />
+            <element signature="e#5715#5716#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3227,7 +3314,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3235,14 +3324,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="167" column="13" selection-start-line="167" selection-start-column="13" selection-end-line="167" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1310#1311#0" expanded="false" />
+            <element signature="e#1345#1346#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -3263,18 +3356,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/mnt/dev/honestwalker/KancartAndroid/honestwalker_projects/Fastroid/Fastroid-commons/main/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73431736">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
           <folding />
         </state>
       </provider>
