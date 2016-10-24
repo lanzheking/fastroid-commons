@@ -26,6 +26,5 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.github.lanzheking:fastroid-utils:0.1.1'
 //    compile 'com.github.lanzheking:fastroid-http:1.0.0'
-    compile files('libs/gson-2.2.4.jar')
-    compile files('libs/MobTools.jar')
+    compile 'com.github.lanzheking:Fastroid-http:1.0.3'
 }
